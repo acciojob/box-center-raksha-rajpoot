@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.div{
+	weight:200px;
+	height:200px;
+	background-color:light-blue;
+	text-align:center;
+	color:purple;
+	border:2px thick;
+	border-box:center;
+	position:center;
+	border-color:black;
+	
+}
