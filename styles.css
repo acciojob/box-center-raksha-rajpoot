@@ -1,14 +1,15 @@
-/*  your css code here. If applicable */
-div{
-	weight:200px;
+.r1{
+	width:200px;
 	height:200px;
-	background-color:light-blue;
-	text-align:center;
-	color:purple;
-	border:2px thick;
-	border-box:center;
+	border:2px solid black;
+	background-color:lightblue;
 	position:center;
-	border-color:black;
-}
+	transform:center;
+
 	
+	}
+.r2{
+	color:purple;
+	text-align:center;
+	padding-top:100px
 }
